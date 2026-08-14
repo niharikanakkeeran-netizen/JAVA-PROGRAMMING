@@ -5,8 +5,6 @@ public class StudentResult
         int[] marks = {85, 90, 78, 92, 88};
         int total = 0;
         for (int i=0; i< marks. length; i++)
-
-             
         {
             total += marks[i];
         }
